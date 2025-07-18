@@ -65,7 +65,7 @@ You can also manually test any function by selecting it and clicking **Run**.
 
 ---
 
-## 🔧 Customization
+## Customization
 
 - **Trigger times**: Edit `createTriggers()` in `Code.gs` and adjust `.atHour(HOUR)`.  
 - **Email content**: Modify the HTML/CSS blocks in the `sendNotion*Digest` functions.  
@@ -74,7 +74,7 @@ You can also manually test any function by selecting it and clicking **Run**.
 
 ---
 
-## 🐛 Debugging & Logs
+## Debugging & Logs
 
 - Use `Logger.log(...)` in your functions to emit debug info.  
 - View logs via **View → Logs** in the Apps Script editor.  
@@ -84,7 +84,7 @@ You can also manually test any function by selecting it and clicking **Run**.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 1. **Fork** the repo and create a branch:  
    ```bash
