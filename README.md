@@ -89,3 +89,19 @@ You can also manually test any function by selecting it and clicking **Run**.
 1. **Fork** the repo and create a branch:  
    ```bash
    git checkout -b feature/your-feature
+
+2. Make your changes and commit:  
+   ```bash
+   git commit -m "Add awesome feature"
+
+3. Push to your fork:
+   ```bash
+   git push origin feature/your-feature
+
+4. Open a Pull Request on Github.
+
+---
+##  License
+
+This project is licensed under the [MIT License](LICENSE).  
+See the [LICENSE](LICENSE) file for details.
